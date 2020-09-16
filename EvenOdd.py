@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+
+
+@author: saurav
+"""
+
+print("please enter the number")
+num=int(input())
+if num%2==0:
+    print("even")
+else:
+    print("odd")
