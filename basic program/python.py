@@ -12,4 +12,4 @@ def factorial(x):
 
 
 num = int(input())
-print("The factorial of", num, "is", factorial(num))
+print("factorial = ",factorial(num))
