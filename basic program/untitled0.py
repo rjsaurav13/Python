@@ -5,13 +5,6 @@
 @author: saurav
 """
 
-usn = input("Enter usn:")
-i=1;
-while i<3:
+for i in range(80,91,1):
+    print(i)
     
-    print(usn)
-    if i==2:
-        print(usn+" ",end='')
-        
-    i=i+1
-    print(usn)
