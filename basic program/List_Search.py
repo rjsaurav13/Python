@@ -14,5 +14,7 @@ srch = input()
 for i in range(0,5):
     
     if srch==cityname[i]:
-        print("found element")
+        print("found element at position:",i+1)
+    else:
+        print("Element not found")
     
