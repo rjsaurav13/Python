@@ -7,5 +7,5 @@
 
 python=open('ab.txt','w')
 python.write("hello")
-python.write("world")
+
 python.close()
