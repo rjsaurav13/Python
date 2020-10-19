@@ -9,4 +9,4 @@ f = open("ab.txt", "r")
 #print(f.read())
 print(f.readline())
 print(f.readline())
-
+f.close()
