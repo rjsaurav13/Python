@@ -6,6 +6,8 @@
 """
 
 python=open('ab.txt','w')
-python.write("hello")
+python.write("hello world")
 
 python.close()
+python = open("ab.txt", "r")
+print(python.read())
