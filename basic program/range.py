@@ -5,7 +5,7 @@
 @author: saurav
 """
 
-for i in range(2002,3200,1):
+for i in range(2002,3200,7):
     if i%5==0:
         continue
     print(i)        
