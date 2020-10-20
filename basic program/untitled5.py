@@ -5,4 +5,10 @@
 @author: saurav
 """
 
-#reverse the string
+def reverse(s): 
+  str = "" 
+  for i in s: 
+    str = i + str
+  print(str)
+s= input("")
+reverse(s)
