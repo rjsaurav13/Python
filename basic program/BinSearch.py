@@ -17,7 +17,7 @@ def binarySearch(arr,beg,end,item):
     return -1  
       
   
-arr=[1,2,3,4,5,6,7,8,9,10];  
+arr=[1,2,3,4,90,6,7,8,9,10];  
 item = int(input())  
 location = -1;   
 location = binarySearch(arr,0,9,item);  
