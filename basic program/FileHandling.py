@@ -10,4 +10,4 @@ python.write("hello world")
 
 python.close()
 python = open("ab.txt", "r")
-print(python.read())
+print(python.read())c
