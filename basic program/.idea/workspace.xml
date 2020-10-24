@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.ListDuplicate">
+  <component name="RunManager" selected="Python.Filecopy">
     <configuration name="CountChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,7 +49,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CountNoOfWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="EvenOdd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CountNoOfWords.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EvenOdd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ListDuplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Filecopy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListDuplicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Filecopy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="WordsChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WordsChar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ListDuplicate" />
-        <item itemvalue="Python.WordsChar" />
+        <item itemvalue="Python.Filecopy" />
         <item itemvalue="Python.CountChar" />
-        <item itemvalue="Python.CountNoOfWords" />
+        <item itemvalue="Python.Search" />
         <item itemvalue="Python.RPS" />
+        <item itemvalue="Python.EvenOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -180,22 +180,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603377125055" />
-    <state width="1899" height="328" key="GridCell.Tab.0.bottom" timestamp="1603488526336">
+    <state width="1899" height="598" key="GridCell.Tab.0.bottom" timestamp="1603528056742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603488526336" />
-    <state width="1899" height="328" key="GridCell.Tab.0.center" timestamp="1603488526336">
+    <state width="1899" height="598" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603528056742" />
+    <state width="1899" height="598" key="GridCell.Tab.0.center" timestamp="1603528056742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603488526336" />
-    <state width="1899" height="328" key="GridCell.Tab.0.left" timestamp="1603488526335">
+    <state width="1899" height="598" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603528056742" />
+    <state width="1899" height="598" key="GridCell.Tab.0.left" timestamp="1603528056742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603488526335" />
-    <state width="1899" height="328" key="GridCell.Tab.0.right" timestamp="1603488526336">
+    <state width="1899" height="598" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603528056742" />
+    <state width="1899" height="598" key="GridCell.Tab.0.right" timestamp="1603528056742">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603488526336" />
+    <state width="1899" height="598" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603528056742" />
     <state width="1240" height="347" key="GridCell.Tab.1.bottom" timestamp="1603404342661">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
