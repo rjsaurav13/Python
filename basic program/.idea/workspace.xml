@@ -27,8 +27,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Filecopy">
-    <configuration name="CountChar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Place">
+    <configuration name="Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,28 +40,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CountChar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="EvenOdd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="basic program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EvenOdd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RPS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Place" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,28 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RPS.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="basic program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Place.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,13 +112,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="c" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Place" />
+        <item itemvalue="Python.Class" />
+        <item itemvalue="Python.c" />
+        <item itemvalue="Python.student" />
         <item itemvalue="Python.Filecopy" />
-        <item itemvalue="Python.CountChar" />
-        <item itemvalue="Python.Search" />
-        <item itemvalue="Python.RPS" />
-        <item itemvalue="Python.EvenOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -176,49 +176,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1066" y="202" key="#Inspections" timestamp="1604563708034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1066" y="202" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1604563708034" />
     <state x="414" y="175" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603377125055">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="716" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603377125055" />
-    <state width="1899" height="598" key="GridCell.Tab.0.bottom" timestamp="1603528056742">
+    <state width="936" height="347" key="GridCell.Tab.0.bottom" timestamp="1604565067403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="598" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603528056742" />
-    <state width="1899" height="598" key="GridCell.Tab.0.center" timestamp="1603528056742">
+    <state width="936" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067403" />
+    <state width="936" height="347" key="GridCell.Tab.0.center" timestamp="1604565067403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="598" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603528056742" />
-    <state width="1899" height="598" key="GridCell.Tab.0.left" timestamp="1603528056742">
+    <state width="936" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067403" />
+    <state width="936" height="347" key="GridCell.Tab.0.left" timestamp="1604565067403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="598" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603528056742" />
-    <state width="1899" height="598" key="GridCell.Tab.0.right" timestamp="1603528056742">
+    <state width="936" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067403" />
+    <state width="936" height="347" key="GridCell.Tab.0.right" timestamp="1604565067403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="598" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603528056742" />
-    <state width="1240" height="347" key="GridCell.Tab.1.bottom" timestamp="1603404342661">
+    <state width="936" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067403" />
+    <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1604565067408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1240" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603404342661" />
-    <state width="1240" height="347" key="GridCell.Tab.1.center" timestamp="1603404342661">
+    <state width="936" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067408" />
+    <state width="936" height="347" key="GridCell.Tab.1.center" timestamp="1604565067403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1240" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603404342661" />
-    <state width="1240" height="347" key="GridCell.Tab.1.left" timestamp="1603404342661">
+    <state width="936" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067403" />
+    <state width="936" height="347" key="GridCell.Tab.1.left" timestamp="1604565067403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1240" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603404342661" />
-    <state width="1240" height="347" key="GridCell.Tab.1.right" timestamp="1603404342661">
+    <state width="936" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067403" />
+    <state width="936" height="347" key="GridCell.Tab.1.right" timestamp="1604565067403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1240" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603404342661" />
+    <state width="936" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067403" />
     <state x="135" y="163" key="SettingsEditor" timestamp="1603484060899">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="135" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603484060899" />
-    <state x="314" y="747" width="672" height="678" key="search.everywhere.popup" timestamp="1603487428194">
+    <state x="608" y="337" width="672" height="678" key="search.everywhere.popup" timestamp="1604564029806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="314" y="747" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603487428194" />
+    <state x="608" y="337" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604564029806" />
   </component>
 </project>
