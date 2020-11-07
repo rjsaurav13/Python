@@ -27,28 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.multiple_inhertance">
-    <configuration name="Class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="basic program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.methodover">
     <configuration name="Place" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,6 +91,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="methodover" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/methodover.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="multi_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.methodover" />
         <item itemvalue="Python.multiple_inhertance" />
         <item itemvalue="Python.multi_inheritance" />
         <item itemvalue="Python.inheritance" />
         <item itemvalue="Python.Place" />
-        <item itemvalue="Python.Class" />
       </list>
     </recent_temporary>
   </component>
@@ -184,22 +184,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604645816157" />
-    <state width="936" height="411" key="GridCell.Tab.0.bottom" timestamp="1604652138680">
+    <state width="628" height="414" key="GridCell.Tab.0.bottom" timestamp="1604738463933">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604652138680" />
-    <state width="936" height="411" key="GridCell.Tab.0.center" timestamp="1604652138679">
+    <state width="628" height="414" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604738463933" />
+    <state width="628" height="414" key="GridCell.Tab.0.center" timestamp="1604738463932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="411" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604652138679" />
-    <state width="936" height="411" key="GridCell.Tab.0.left" timestamp="1604652138679">
+    <state width="628" height="414" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604738463932" />
+    <state width="628" height="414" key="GridCell.Tab.0.left" timestamp="1604738463932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="411" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604652138679" />
-    <state width="936" height="411" key="GridCell.Tab.0.right" timestamp="1604652138680">
+    <state width="628" height="414" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604738463932" />
+    <state width="628" height="414" key="GridCell.Tab.0.right" timestamp="1604738463932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="936" height="411" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604652138680" />
+    <state width="628" height="414" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604738463932" />
     <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1604565067408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
