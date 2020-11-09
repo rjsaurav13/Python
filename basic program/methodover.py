@@ -1,8 +1,14 @@
 class a:
+    def __init__(self):
+        self.val="A is runing"
     def show(self):
-        print("A is runing")
+        print(self.val)
 class b(a):
-    pass
-class
+    def __init__(self):
+        self.val="B is runing"
+    def show(self):
+        print(self.val)
+a1=a()
 b1=b()
+a1.show()
 b1.show()
