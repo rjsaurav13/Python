@@ -25,30 +25,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/methodover.py" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.methodover">
-    <configuration name="Place" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="basic program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Place.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,27 +42,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="basic program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\python\Intro to python\Python\basic program\inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,13 +113,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.methodover" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.snake" />
         <item itemvalue="Python.multiple_inhertance" />
         <item itemvalue="Python.multi_inheritance" />
-        <item itemvalue="Python.inheritance" />
-        <item itemvalue="Python.Place" />
       </list>
     </recent_temporary>
   </component>
@@ -184,22 +185,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="742" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604645816157" />
-    <state width="628" height="414" key="GridCell.Tab.0.bottom" timestamp="1604738463933">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1604933384727">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="628" height="414" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604738463933" />
-    <state width="628" height="414" key="GridCell.Tab.0.center" timestamp="1604738463932">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604933384727" />
+    <state x="678" y="249" key="FileChooserDialogImpl" timestamp="1604933583273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="628" height="414" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604738463932" />
-    <state width="628" height="414" key="GridCell.Tab.0.left" timestamp="1604738463932">
+    <state x="678" y="249" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604933583273" />
+    <state width="1899" height="370" key="GridCell.Tab.0.bottom" timestamp="1604934043844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="628" height="414" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604738463932" />
-    <state width="628" height="414" key="GridCell.Tab.0.right" timestamp="1604738463932">
+    <state width="1899" height="370" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604934043844" />
+    <state width="1899" height="370" key="GridCell.Tab.0.center" timestamp="1604934043844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="628" height="414" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604738463932" />
+    <state width="1899" height="370" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604934043844" />
+    <state width="1899" height="370" key="GridCell.Tab.0.left" timestamp="1604934043844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="370" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604934043844" />
+    <state width="1899" height="370" key="GridCell.Tab.0.right" timestamp="1604934043844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="370" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604934043844" />
     <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1604565067408">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -216,13 +225,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="936" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604565067403" />
-    <state x="135" y="163" key="SettingsEditor" timestamp="1603484060899">
+    <state x="135" y="163" key="SettingsEditor" timestamp="1604933705444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="135" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603484060899" />
-    <state x="608" y="337" width="672" height="678" key="search.everywhere.popup" timestamp="1604564029806">
+    <state x="135" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604933705444" />
+    <state x="608" y="337" width="672" height="678" key="search.everywhere.popup" timestamp="1604775649810">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="608" y="337" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604564029806" />
+    <state x="608" y="337" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604775649810" />
   </component>
 </project>
