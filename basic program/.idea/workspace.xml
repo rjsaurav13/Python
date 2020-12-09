@@ -29,7 +29,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Search.py" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Search">
+  <component name="RunManager" selected="Python.CopyFile">
+    <configuration name="CopyFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CopyFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inputclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numlines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\python\Intro to python\Python\basic program\inputclass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numlines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,34 +156,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="basic program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CopyFile" />
+        <item itemvalue="Python.numlines" />
         <item itemvalue="Python.Search" />
         <item itemvalue="Python.divi7" />
         <item itemvalue="Python.primetest" />
-        <item itemvalue="Python.tkinter" />
-        <item itemvalue="Python.inputclass" />
       </list>
     </recent_temporary>
   </component>
@@ -198,22 +198,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="678" y="249" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607454609212" />
-    <state width="1899" height="412" key="GridCell.Tab.0.bottom" timestamp="1607494205517">
+    <state width="1049" height="411" key="GridCell.Tab.0.bottom" timestamp="1607534787463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="412" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607494205517" />
-    <state width="1899" height="412" key="GridCell.Tab.0.center" timestamp="1607494205517">
+    <state width="1049" height="411" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607534787463" />
+    <state width="1049" height="411" key="GridCell.Tab.0.center" timestamp="1607534787463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="412" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607494205517" />
-    <state width="1899" height="412" key="GridCell.Tab.0.left" timestamp="1607494205517">
+    <state width="1049" height="411" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607534787463" />
+    <state width="1049" height="411" key="GridCell.Tab.0.left" timestamp="1607534787462">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="412" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607494205517" />
-    <state width="1899" height="412" key="GridCell.Tab.0.right" timestamp="1607494205517">
+    <state width="1049" height="411" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607534787462" />
+    <state width="1049" height="411" key="GridCell.Tab.0.right" timestamp="1607534787463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="412" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607494205517" />
+    <state width="1049" height="411" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607534787463" />
     <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1605167766521">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -234,9 +234,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="135" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604933705444" />
-    <state x="105" y="378" width="672" height="678" key="search.everywhere.popup" timestamp="1607450448948">
+    <state x="105" y="378" width="672" height="678" key="search.everywhere.popup" timestamp="1607534987176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="105" y="378" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607450448948" />
+    <state x="105" y="378" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607534987176" />
   </component>
 </project>
