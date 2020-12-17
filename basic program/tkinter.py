@@ -22,6 +22,5 @@ Checkbutton(master,text="Cricket").grid(row=4, column=1,sticky=W,columnspan=2)
 Checkbutton(master,text="Volleyball").grid(row=5, column=1,sticky=W,columnspan=2)
 Checkbutton(master,text="badminton").grid(row=6, column=1,sticky=W,columnspan=2)
 Button(master,text="save").grid(row=9,column=0,sticky=E)
-Button(master,text="submit").grid(row=9,column=4,sticky=E
-                                  )
+Button(master,text="submit").grid(row=9,column=4,sticky=E)
 mainloop()
