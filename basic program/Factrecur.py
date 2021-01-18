@@ -10,5 +10,7 @@ def fact(num):
        return num
    else:
        return num*fact(num-1)
-num=int(input())
-print(fact(num))
+tcase=int(input())
+for i in tcase:
+    num=int(input())
+    print(fact(num))
