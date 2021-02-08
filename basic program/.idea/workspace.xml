@@ -26,10 +26,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../practice/python_lab/factrecu.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.factrecu">
+  <component name="RunManager" selected="Python.test12">
     <configuration name="CopyFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -43,27 +43,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CopyFile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="basic program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,13 +135,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../practice/python_lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../practice/python_lab/test12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test12" />
         <item itemvalue="Python.factrecu" />
         <item itemvalue="Python.smallargest" />
         <item itemvalue="Python.CopyFile" />
         <item itemvalue="Python.numlines" />
-        <item itemvalue="Python.Search" />
       </list>
     </recent_temporary>
   </component>
@@ -199,25 +199,25 @@
     </state>
     <state x="542" y="197" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611303190335" />
     <state x="678" y="249" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607585561596" />
-    <state width="1515" height="126" key="GridCell.Tab.0.bottom" timestamp="1610962219790">
+    <state width="1515" height="126" key="GridCell.Tab.0.bottom" timestamp="1612776863366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="126" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610962219790" />
+    <state width="1515" height="126" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612776863366" />
     <state width="1049" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607585568986" />
-    <state width="1515" height="126" key="GridCell.Tab.0.center" timestamp="1610962219785">
+    <state width="1515" height="126" key="GridCell.Tab.0.center" timestamp="1612776863366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="126" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610962219785" />
+    <state width="1515" height="126" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612776863366" />
     <state width="1049" height="171" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607585568986" />
-    <state width="1515" height="126" key="GridCell.Tab.0.left" timestamp="1610962219785">
+    <state width="1515" height="126" key="GridCell.Tab.0.left" timestamp="1612776863365">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="126" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610962219785" />
+    <state width="1515" height="126" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612776863365" />
     <state width="1049" height="171" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607585568986" />
-    <state width="1515" height="126" key="GridCell.Tab.0.right" timestamp="1610962219789">
+    <state width="1515" height="126" key="GridCell.Tab.0.right" timestamp="1612776863366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="126" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610962219789" />
+    <state width="1515" height="126" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612776863366" />
     <state width="1049" height="171" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607585568986" />
     <state width="936" height="347" key="GridCell.Tab.1.bottom" timestamp="1605167766521">
       <screen x="0" y="0" width="1920" height="1040" />
